@@ -1,4 +1,4 @@
-Py_Git
+## Py_Git
 
 A Python-based reimplementation of Git's core functionality, built from scratch for educational purposes. This project mimics Git's internals including object storage, trees, commits, branching, tagging, and repository management — using only the Python standard library.
 
@@ -114,16 +114,5 @@ python3 wyag.py log HEAD | dot -Tpng -o log.png
 
 ---
 
-## Contributing
 
-This is a learning project — feel free to fork, explore, and improve it. Bug reports and suggestions are always welcome!
-
----
-
-## References
-
-- Original concept: [Write Yourself a Git](https://wyag.thb.lt/)
-- Git internals: https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
-
----
 
